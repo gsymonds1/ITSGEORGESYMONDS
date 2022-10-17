@@ -40,3 +40,10 @@ body {
     
   }
   
+.specialText { 
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+    font: size 40px;
+    font-family: Helvetica, sans-serif;
+
+}

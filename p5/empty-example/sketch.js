@@ -6,7 +6,7 @@ createCanvas(400,400);
 }
 
 function draw() {
-  // put drawing code here
+  // put drawing code here  THESE THE CICRLCES
   background(255, 204, 0);
 
 
